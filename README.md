@@ -180,4 +180,8 @@ Encapsulates the core logic for webcam management and image operations.
 3. Click **Snapshot** to capture images.
 4. Images saved as JPG files with timestamped filenames in the selected directory.
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 914aa08f15742f55b81f394ffa07d5430b498064
